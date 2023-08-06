@@ -1,0 +1,71 @@
+.NET
+JavaScript
+ASP.NET
+iOS
+Android
+DevOps
+AWS
+Angular
+Tester
+QA QC
+SQL
+ERP
+C++
+Embedded
+Oracle
+Agile
+Database
+PHP
+Drupal
+Python
+ReactJS
+UI-UX
+Cloud
+React Native
+Java
+Spring
+System
+Linux
+OpenStack
+OOP
+NodeJS
+Unity
+C#
+Games
+Azure
+Data Analyst
+Ruby
+TypeScript
+J2EE
+VueJS
+Kotlin
+MySQL
+Laravel
+Networking
+NoSQL
+MVC
+Golang
+Blockchain
+Automation Test
+Ruby on Rails
+Objective C
+Swift
+CSS
+HTML5
+Bridge
+Solidity
+Scala
+Scrum
+PostgreSql
+Cocos
+Django
+SAP
+COBOL
+Flutter
+AngularJS
+Dart
+JQuery
+Magento
+SAS
+JSON
+System
